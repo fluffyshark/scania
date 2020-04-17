@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0beta1 (32d4812, 2019-09-19)"
+   sodipodi:docname="houses_sold.svg"
+   height="34.256454"
+   width="37.285934"
+   id="svg843"
+   xml:space="preserve"
+   viewBox="0 0 37.285934 34.256455"
+   y="0px"
+   x="0px"
+   version="1.1"><sodipodi:namedview
+   inkscape:current-layer="svg843"
+   inkscape:window-maximized="1"
+   inkscape:window-y="23"
+   inkscape:window-x="0"
+   inkscape:cy="27.89078"
+   inkscape:cx="-39.332817"
+   inkscape:zoom="2.4706087"
+   fit-margin-bottom="0"
+   fit-margin-right="0"
+   fit-margin-left="0"
+   fit-margin-top="0"
+   inkscape:snap-global="false"
+   showgrid="false"
+   id="namedview843"
+   inkscape:window-height="932"
+   inkscape:window-width="1680"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0"
+   guidetolerance="10"
+   gridtolerance="10"
+   objecttolerance="10"
+   borderopacity="1"
+   inkscape:document-rotation="0"
+   bordercolor="#666666"
+   pagecolor="#ffffff" />
+
+  <metadata
+   id="metadata849">
+    <rdf:RDF>
+      <cc:Work
+   rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+
+
+        <dc:type
+   rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+
+
+        <dc:title></dc:title>
+
+
+      </cc:Work>
+
+
+    </rdf:RDF>
+
+
+  </metadata>
+
+
+  <defs
+   id="defs847">
+    <style
+   id="style833"
+   type="text/css">
+   
+    .fil0 {fill:black}
+   
+  </style>
+
+
+  </defs>
+
+
+  
+
+<g
+   style="fill:#c0c6c9;fill-opacity:1"
+   transform="matrix(0.58259274,0,0,0.58259274,-10.486669,-12.00141)"
+   id="g1153">
+  <path
+     style="fill:#c0c6c9;fill-opacity:1"
+     inkscape:connector-curvature="0"
+     d="M 78.33,72.07 H 74 V 47.39 h 8 L 69.38,36.82 69.33,36.88 A 107.72,107.72 0 0 0 54.67,58.6 3.89,3.89 0 0 1 51.18,60.74 h -0.11 a 3.92,3.92 0 0 1 -3.5,-2.35 C 42.8,47.62 35.24,44.5 34.92,44.39 l -4.82,-1.95 9.14,-5.33 1,0.23 c 4,0.94 8.1,4.11 10.55,6.3 A 75.85,75.85 0 0 1 62.34,30.93 L 50,20.6 38.67,30.08 v -2 a 4.045,4.045 0 1 0 -8.09,0 v 8.76 L 18,47.39 h 8 v 24.68 h -4.33 a 3.67,3.67 0 0 0 0,7.33 h 56.66 a 3.67,3.67 0 0 0 0,-7.33 z"
+     id="path1133" />
+  <path
+     style="fill:#c0c6c9;fill-opacity:1"
+     inkscape:connector-curvature="0"
+     d="m 51.14,47.5 c 0,0 -6.14,-6.43 -11.51,-7.7 L 35.84,42 c 0,0 8.74,3.37 14,15.34 a 1.41,1.41 0 0 0 2.54,0.09 110.77,110.77 0 0 1 15,-22.25 65.88,65.88 0 0 1 8.5,-8.06 h -4 A 43.33,43.33 0 0 0 64.25,32.55 74.58,74.58 0 0 0 51.14,47.5 Z"
+     id="path1135" />
+</g>
+</svg>

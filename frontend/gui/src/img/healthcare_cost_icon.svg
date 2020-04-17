@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="healthcare_cost_icon.svg"
+   inkscape:version="1.0beta1 (32d4812, 2019-09-19)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 25.254 25.254622"
+   height="25.254622mm"
+   width="25.254mm">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="23"
+     inkscape:window-x="0"
+     inkscape:window-height="932"
+     inkscape:window-width="1680"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="-31.603544"
+     inkscape:cx="54.648589"
+     inkscape:zoom="2.3702396"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(19.692721,-272.08054)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Lager 1">
+    <g
+       transform="matrix(0.26458333,0,0,0.26458333,0.33651933,228.9488)"
+       id="g315">
+      <path
+         style="fill:#c0c6c9;fill-opacity:1;stroke-width:1.17686"
+         inkscape:connector-curvature="0"
+         d="m -3.9854723,207.47001 c 5.610099,0 10.827128,1.70409 15.1662163,4.62036 v -21.28708 h -27.783351 v -27.7857 h -31.310404 v 27.7857 h -27.788056 v 31.3104 h 27.788056 v 27.78571 h 21.283543 c -2.915086,-4.33791 -4.619182,-9.55494 -4.619182,-15.16386 0,-15.03441 12.229946,-27.26553 27.2631777,-27.26553 z m 0,3.53058 c -13.1090627,0 -23.7325927,10.62706 -23.7325927,23.73495 0,13.10788 10.62353,23.73259 23.7325927,23.73259 13.109062,0 23.7325923,-10.62353 23.7325923,-23.73259 0,-13.10906 -10.6247073,-23.73495 -23.7325923,-23.73495 z m 2.356077,38.47396 v 2.19485 h -4.707447 v -2.22309 c -3.8000867,-0.88382 -6.4562637,-3.80127 -7.1682647,-6.58101 l 4.5603397,-1.16745 c 0.353058,1.37693 2.125412,3.31639 4.961649,3.31639 2.69266,0 4.88279905,-1.5511 4.88279905,-3.45761 0,-1.93359 -1.48873,-3.16106 -5.68894905,-4.6898 l -0.0012,-0.001 c -2.852713,-1.04151 -8.7888037,-3.20693 -8.7888037,-9.11479 0,-3.88246 3.03748,-7.04234 7.2412297,-7.91557 v -2.03596 h 4.707447 v 2.06303 c 3.803618,0.88383 6.45744,3.80127 7.164734,6.58337 l -4.56269295,1.15803 c -0.338935,-1.33574 -2.14777205,-3.30816 -4.95576405,-3.30816 -2.695013,0 -4.887507,1.54874 -4.887507,3.45526 0,1.93124 1.491084,3.1587 5.693657,4.69215 v 0 c 2.85153605,1.03917 8.785273,3.19989 8.785273,9.11362 0,3.88365 -3.035127,7.04469 -7.236523,7.91792 z"
+         id="path298" />
+    </g>
+  </g>
+</svg>

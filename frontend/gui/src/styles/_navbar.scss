@@ -1,0 +1,15 @@
+.navbar {
+    background-color: #0a1720;
+    width: 100%;
+    grid-row: 1 / 1;
+    grid-column: 1 / -1;
+    box-shadow: 0 5px 5px -5px #000;
+    z-index: 1;
+
+    display: grid;
+    grid-template-columns: minmax(min-content, 200px) minmax(min-content, 100px) minmax(min-content, 100px);
+    align-content: center;
+    padding-left: 50px;
+    color:#c0c6c9;
+}
+

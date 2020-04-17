@@ -1,0 +1,31 @@
+from django.db import models
+from django.contrib.postgres.fields import ArrayField
+
+# Create your models here.
+class Sector(models.Model):
+    sector = models.CharField(max_length=120)
+    population = ArrayField(models.IntegerField())
+    annual_target = ArrayField(models.DecimalField(max_digits = 5, decimal_places = 2))
+    tax_rate = ArrayField(models.DecimalField(max_digits = 5, decimal_places = 2))
+    children_in_preschool = ArrayField(models.IntegerField())
+    elementary_students = ArrayField(models.IntegerField())
+    junior_high_students = ArrayField(models.IntegerField())
+    high_school_students = ArrayField(models.IntegerField())
+    expenses = ArrayField(models.DecimalField(max_digits = 5, decimal_places = 1))
+    income = ArrayField(models.DecimalField(max_digits = 5, decimal_places = 1))
+    population_total_yearly_income = ArrayField(models.DecimalField(max_digits = 5, decimal_places = 1))
+    population_median_income = ArrayField(models.DecimalField(max_digits = 5, decimal_places = 1))
+    university_educated_population = ArrayField(models.IntegerField())
+    pension_obligation = ArrayField(models.DecimalField(max_digits = 5, decimal_places = 1))
+    newborns = ArrayField(models.IntegerField())
+    deaths = ArrayField(models.IntegerField())
+    immigration = ArrayField(models.IntegerField())
+    emmigration = ArrayField(models.IntegerField())
+    number_of_millioner_income_earners = ArrayField(models.IntegerField())
+    number_of_houses_sold = ArrayField(models.IntegerField())
+    average_house_prices = ArrayField(models.IntegerField())
+    unemployment = ArrayField(models.DecimalField(max_digits = 5, decimal_places = 1))
+    students_per_teacher = ArrayField(models.DecimalField(max_digits = 5, decimal_places = 1))
+    children_per_caretaker = ArrayField(models.DecimalField(max_digits = 5, decimal_places = 1))
+    education_cost_paid_per_capita = ArrayField(models.IntegerField())
+    percentage_of_nine_grade_graduate = ArrayField(models.DecimalField(max_digits = 5, decimal_places = 1))

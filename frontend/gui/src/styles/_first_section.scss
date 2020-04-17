@@ -1,0 +1,27 @@
+.first_section {
+    
+    width: 100%;
+    height: 100%;
+    box-shadow: -5px 0 5px -5px #000;;
+}
+
+.first_section_first {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: white;
+    padding-left: 85px;
+}
+
+.first_section_second {
+    width: 100%;
+    height: 100%;
+    overflow: scroll;
+    display: grid;
+    justify-items: center;
+}
+
+.first_container {
+    height: 200vh;
+    width: 84.5%;
+    
+}
